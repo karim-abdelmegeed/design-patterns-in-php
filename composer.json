@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "./Adapter",
+            "./Decorator",
+            "./Observer",
+            "./Strategy"
+        ]
+    }
+}
