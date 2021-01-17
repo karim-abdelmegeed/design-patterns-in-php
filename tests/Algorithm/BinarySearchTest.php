@@ -1,8 +1,9 @@
 <?php
 
+use \PHPUnit\Framework\TestCase; 
 use App\Algorithm\BinarySearch;
 
-class BinarySearchTest extends \PHPUnit\Framework\TestCase
+class BinarySearchTest extends TestCase
 {
     private $binarySearch ; 
 
