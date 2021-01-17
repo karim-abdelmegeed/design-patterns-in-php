@@ -1,10 +1,23 @@
 {
+    "name": "php/solid",
+    "type": "project",
+    "description": "Algorithms, Design Pattern, Solid Principles",
+    "keywords": [
+        "SOLID",
+        "OOP",
+        "Algorithms",
+        "UnitTest",
+        "DataStructure",
+        "DataStructure"
+    ],
     "autoload": {
-        "classmap": [
-            "./Adapter",
-            "./Decorator",
-            "./Observer",
-            "./Strategy"
-        ]
+        "autoload": {
+            "psr-0": {
+                "App\\":"app"
+            }    
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
     }
 }
