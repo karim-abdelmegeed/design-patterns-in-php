@@ -8,6 +8,5 @@ class Person
     {
         $book->open();
         $book->nextPage();
-
     }
 }

@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":268:{a:2:{s:7:"defects";a:3:{s:23:"CalculatorTest::testAdd";i:4;s:25:"BinarySearchTest::testAdd";i:4;s:26:"SelectionSortTest::testAdd";i:4;}s:5:"times";a:3:{s:23:"CalculatorTest::testAdd";d:0;s:25:"BinarySearchTest::testAdd";d:0.003;s:26:"SelectionSortTest::testAdd";d:0;}}}
